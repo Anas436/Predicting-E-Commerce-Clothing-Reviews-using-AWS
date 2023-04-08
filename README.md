@@ -1,1 +1,1 @@
-# Practical-Data-Science-on-the-AWS-Cloud-Specialization
+# Predicting-E-Commerce-Clothing-Reviews-using-AWS
